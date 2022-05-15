@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @David-G-S
+- 👀 I’m interested in chemical oceanography (trace metal analysis in the deep ocean)
+- 🌱 I’m currently learning Python (I currently use MATLAB for my data analysis)
+- 📫 Reach me at ULPGC university email.
